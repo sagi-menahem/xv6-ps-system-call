@@ -67,4 +67,4 @@ Key aspects of the implementation include:
 
 ## Author
 
-Sagi Menachem.
+Sagi Menahem.
